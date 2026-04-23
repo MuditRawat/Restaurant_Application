@@ -24,31 +24,31 @@
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "CHICKEN ALFREDO",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "DEVILED EGGS",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "GREEK SALAD",
                 "category": "Breakfast"
             },
             {
                 "id": 4,
                 "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
+                "title": "STRAWBERRY PASTRY",
                 "category": "Dinner"
             },
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "DOUBLE SMASH BURGER",
                 "category": "Lunch"
             },
             {

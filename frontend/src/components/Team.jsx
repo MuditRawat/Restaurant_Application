@@ -7,10 +7,9 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
-          </p>
+  Meet the passionate people behind every dish. Our chefs, servers, and 
+  staff work together to make your dining experience truly unforgettable.
+</p>
         </div>
         <div className="team_container">
           {data[0].team.map((element) => {
